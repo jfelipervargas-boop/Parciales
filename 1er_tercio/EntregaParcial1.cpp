@@ -1,6 +1,8 @@
 #include <iostream>
 #include <cmath>
 
+//Integrantes Devid Poll Arteche y Juan Felipe Rodriguez
+
 // Definir la estructura de un punto en 2D
 struct Point {
     double x, y;
